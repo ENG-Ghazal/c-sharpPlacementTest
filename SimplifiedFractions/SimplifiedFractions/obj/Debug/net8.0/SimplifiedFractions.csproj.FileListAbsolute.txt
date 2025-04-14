@@ -1,0 +1,14 @@
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\bin\Debug\net8.0\SimplifiedFractions.exe
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\bin\Debug\net8.0\SimplifiedFractions.deps.json
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\bin\Debug\net8.0\SimplifiedFractions.runtimeconfig.json
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\bin\Debug\net8.0\SimplifiedFractions.dll
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\bin\Debug\net8.0\SimplifiedFractions.pdb
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.AssemblyInfoInputs.cache
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.AssemblyInfo.cs
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.csproj.CoreCompileInputs.cache
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.dll
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\obj\Debug\net8.0\refint\SimplifiedFractions.dll
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.pdb
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.genruntimeconfig.cache
+C:\Users\Ghazal\source\repos\SimplifiedFractions\SimplifiedFractions\obj\Debug\net8.0\ref\SimplifiedFractions.dll
