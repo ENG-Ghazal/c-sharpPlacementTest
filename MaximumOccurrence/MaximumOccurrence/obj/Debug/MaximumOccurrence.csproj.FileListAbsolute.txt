@@ -1,0 +1,7 @@
+C:\Users\Ghazal\source\repos\MaximumOccurrence\MaximumOccurrence\bin\Debug\MaximumOccurrence.exe.config
+C:\Users\Ghazal\source\repos\MaximumOccurrence\MaximumOccurrence\bin\Debug\MaximumOccurrence.exe
+C:\Users\Ghazal\source\repos\MaximumOccurrence\MaximumOccurrence\bin\Debug\MaximumOccurrence.pdb
+C:\Users\Ghazal\source\repos\MaximumOccurrence\MaximumOccurrence\obj\Debug\MaximumOccurrence.csproj.AssemblyReference.cache
+C:\Users\Ghazal\source\repos\MaximumOccurrence\MaximumOccurrence\obj\Debug\MaximumOccurrence.csproj.CoreCompileInputs.cache
+C:\Users\Ghazal\source\repos\MaximumOccurrence\MaximumOccurrence\obj\Debug\MaximumOccurrence.exe
+C:\Users\Ghazal\source\repos\MaximumOccurrence\MaximumOccurrence\obj\Debug\MaximumOccurrence.pdb
