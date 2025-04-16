@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ghazal\\source\\repos\\NumberOfLuckyTickets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14162758-750F-42AF-8730-F0FB051E4A49}|NumberOfLuckyTickets\\NumberOfLuckyTickets.csproj|c:\\users\\ghazal\\source\\repos\\numberofluckytickets\\numberofluckytickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14162758-750F-42AF-8730-F0FB051E4A49}|NumberOfLuckyTickets\\NumberOfLuckyTickets.csproj|solutionrelative:numberofluckytickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ghazal\\source\\repos\\NumberOfLuckyTickets\\NumberOfLuckyTickets\\Program.cs",
+              "RelativeDocumentMoniker": "NumberOfLuckyTickets\\Program.cs",
+              "ToolTip": "C:\\Users\\Ghazal\\source\\repos\\NumberOfLuckyTickets\\NumberOfLuckyTickets\\Program.cs",
+              "RelativeToolTip": "NumberOfLuckyTickets\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:10:25.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

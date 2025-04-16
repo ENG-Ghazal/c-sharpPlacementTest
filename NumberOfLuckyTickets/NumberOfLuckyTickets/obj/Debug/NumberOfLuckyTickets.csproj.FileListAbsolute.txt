@@ -1,0 +1,7 @@
+C:\Users\Ghazal\source\repos\NumberOfLuckyTickets\NumberOfLuckyTickets\bin\Debug\NumberOfLuckyTickets.exe.config
+C:\Users\Ghazal\source\repos\NumberOfLuckyTickets\NumberOfLuckyTickets\bin\Debug\NumberOfLuckyTickets.exe
+C:\Users\Ghazal\source\repos\NumberOfLuckyTickets\NumberOfLuckyTickets\bin\Debug\NumberOfLuckyTickets.pdb
+C:\Users\Ghazal\source\repos\NumberOfLuckyTickets\NumberOfLuckyTickets\obj\Debug\NumberOfLuckyTickets.csproj.AssemblyReference.cache
+C:\Users\Ghazal\source\repos\NumberOfLuckyTickets\NumberOfLuckyTickets\obj\Debug\NumberOfLuckyTickets.csproj.CoreCompileInputs.cache
+C:\Users\Ghazal\source\repos\NumberOfLuckyTickets\NumberOfLuckyTickets\obj\Debug\NumberOfLuckyTickets.exe
+C:\Users\Ghazal\source\repos\NumberOfLuckyTickets\NumberOfLuckyTickets\obj\Debug\NumberOfLuckyTickets.pdb
